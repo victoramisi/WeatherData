@@ -1,0 +1,12 @@
+--------------Phase 1----------------------
+1) Please go to https://www.weatherapi.com/
+2) Create an account and get your API key
+3) This program will ask for an API key
+4) Use the API key you got from https://www.weatherapi.com/
+--------------Phase 2----------------------
+1) Download Numpy library
+2) Download Pandas Library
+3) Download matplotlib Library
+-------------------------------------------
+Please contact victor at victoramisi08@gmail.com
+if there's any problems

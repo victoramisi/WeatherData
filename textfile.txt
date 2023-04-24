@@ -1,0 +1,6 @@
+{'City': 'Ottawa', 'Weather': 7.0, 'Country': 'Canada', 'Condition': 'Partly cloudy'}
+{'City': 'Montreal', 'Weather': 6.0, 'Country': 'Canada', 'Condition': 'Light rain'}
+{'City': 'New York', 'Weather': 13.3, 'Country': 'United States of America', 'Condition': 'Partly cloudy'}
+{'City': 'Boston', 'Weather': 9.4, 'Country': 'United States of America', 'Condition': 'Light rain'}
+{'City': 'Ottawa', 'Weather': 7.0, 'Country': 'Canada', 'Condition': 'Partly cloudy'}
+{'City': 'Chicago', 'Weather': 4.4, 'Country': 'United States of America', 'Condition': 'Overcast'}

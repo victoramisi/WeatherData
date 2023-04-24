@@ -1,0 +1,5 @@
+- This program gets weather data 
+- It allows the user to select what city the data should be based on 
+- The user can see a visual graph of the data
+- The user can also get more insight like min, max and avg
+- The data is stored in a text file
